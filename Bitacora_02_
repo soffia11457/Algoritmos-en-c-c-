@@ -1,0 +1,28 @@
+Taller 2: USO DE LA TERMINAL EN GNU/LINUX
+ 09/09/2025
+Jireth Soffia Yañez Gutièrrez
+A continuaciòn se va explorar la terminal de Linux, aplicando la ejecuciòn de algunos comandos que permitan la nevegaciòn y gestiòn de archivos y directorios.
+
+Al ejecutar los comandos en cada caso sucede lo siguiente:
+
+1- pwd:Nos muestra la ruta completa del directorio en el que nos encontramos actuslmente.
+2-ls: Permite ver què archivos y carpetas hay en un lugar dentro del sistema de achivos.  Aparecen elementos como: descargas, documentos, mùsica, imagenes,escritorio, videos, plantillas y snap
+3- mkdir practicas_linux:Se crea una carpeta llamada practica_linux, en la secciòn que estamos trabajando.
+4- cd practicas_linux:Nos encontramos al frente de la capeta.
+5- touch archivo1.txt:Se crea una archivo dentro de la carpeta
+6-ls: Muetra los archivos de la carpeta.
+7- cp archivo1.txt archivo2.txt : Nos sirve para copiar el archivo 1 y crear una copia llamada archivo2.txt en el mismo directorio.
+8- mv archivos2.txt documentos.txt: Funciona para renombrar el archivo.
+9-rm documentos.txt: Con esto se borra el archivo llamado documentos.txt del sistema.
+10.  cd..:  Se vuelve a la carpeta donde està esa capeta.
+11- rm-r practicas_linux : Se borra todo lo realizado anteriormente. 
+
+Preguntas de reflexiòn 
+
+1.¿Cuàl fue el proposito de cada comando ejecutado?
+El propòsito de cada comando fue aprender y practicar las funciones bàsicas para navegar y gestionar achivos y carpetas de Linux mediante la terminal.
+2. ¿Què ventajas tiene usar la terminal en comparaciòn con la interfaz gràfica?
+Nos ofrece ventajas como una mayor rapìdez para ejecutar tareas, un control màs preciso y avanzado sobre el sistema.
+3. ¿ Què comandos podrian facilitar la automatizaciòn de tareas repetitivas?
+
+
